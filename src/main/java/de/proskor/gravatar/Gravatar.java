@@ -3,7 +3,7 @@ package de.proskor.gravatar;
 import javax.faces.component.UIComponentBase;
 
 public class Gravatar extends UIComponentBase {
-	public static final String COMPONENT_FAMILY = "gravatar.components";
+	public static final String COMPONENT_FAMILY = "de.proskor.gravatar";
 	public static final String BASE_URL = "http://www.gravatar.com/avatar/";
 	public static final int DEFAULT_SIZE = 80;
 
