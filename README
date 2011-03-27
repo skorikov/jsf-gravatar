@@ -1,1 +1,7 @@
 Gravatar JSF Component
+
+Example
+-------
+
+<gr:avatar xmlns:gr="http://www.gravatar.com/avatar" email="foo@example.com" size="128" />
+
